@@ -8,4 +8,4 @@ a=1
 b=2
 print "sum of a+b is = #{a+b}"
 
-say_hi("Albert")
+say_hi("giraffe")

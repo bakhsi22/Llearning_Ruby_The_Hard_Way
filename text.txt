@@ -1,0 +1,3 @@
+it's my life
+no implicit conversion of nil into String
+i am happy.
